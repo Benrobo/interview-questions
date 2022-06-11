@@ -19,7 +19,7 @@ Now, I have 4 offers in hand,1 Full Stack, and 3 Frontend roles. 1 pending.
 
 ![](https://t37475729.p.clickup-attachments.com/t37475729/e767e2ce-53d9-47ab-82cf-a22f62ef475b/Screenshot%20from%202022-06-04%2012-26-30.png)
 
-I applied to this role via [Naukri.co](http://naukri.co/)m after verifying the job exists on their careers page. The whole interview process had 5 rounds in total, 4 tech rounds, and one HR. Let’s look at each round of the interview.
+I applied to this role via [Naukri.com](http://naukri.com/) after verifying the job exists on their careers page. The whole interview process had 5 rounds in total, 4 tech rounds, and one HR. Let’s look at each round of the interview.
 
 1.  **Online Assessment**
 
@@ -117,7 +117,7 @@ This was a very short call and the interviewer asked me about my previous compan
 
 **Role** - Full Stack Developer, 1+ years of experience.
 
-A recruiter approached me via [Naukri.co](http://naukri.co/)m and asked about my availability for the job role and also asked about my expectations from the new company. The whole interview process had 3 rounds in total, 2 tech rounds, and one HR. Let’s look at each round of the interview.
+A recruiter approached me via [Naukri.com](http://naukri.com/) and asked about my availability for the job role and also asked about my expectations from the new company. The whole interview process had 3 rounds in total, 2 tech rounds, and one HR. Let’s look at each round of the interview.
 
 1.  **First Tech Round with a Senior Engineer.**
     1.  Tell me about yourself.
